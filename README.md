@@ -1,1 +1,5 @@
-# netology-devops-diploma
+# Дипломный проект по программе DevOps-инженер
+
+В этом репозитории расположен дипломный проект.
+
+В ветке [fdevops-21](https://github.com/Filipp0vAP/devkub-homeworks/tree/fdevops-21) находятся решенные задания с ответами из потока fdevops-21 (Основной поток).
